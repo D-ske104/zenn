@@ -28,7 +28,7 @@ published: true
 
 ### 付録
 
-![vscode-markdown-put-quote-mark.gif](/images/vscode-markdown-put-quote-mark.gif)[^2]
+![vscode-markdown-put-quote-mark.gif](/images/vscode-markdown-put-quote-mark.gif)
 
 ## 感想
 
@@ -57,4 +57,3 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 https://code.visualstudio.com/api/references/commands
 
 [^1]: Visual Studio Code Keyboard shortcuts for Windows - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-[^2]: ウォッチャー | Vue.js - https://ja.vuejs.org/guide/essentials/watchers.html
