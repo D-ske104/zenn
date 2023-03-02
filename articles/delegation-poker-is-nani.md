@@ -3,7 +3,7 @@ title: "「おかあさん今日の晩ごはんなに？」で理解するデリ
 emoji: "🍛"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Management30"]
-published: false
+published: true
 ---
 
 ## 記事を書こうと思った背景
